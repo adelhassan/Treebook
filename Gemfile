@@ -7,8 +7,7 @@ gem 'rails', '4.0.3'
 
 
 group :developement, :test do
-
-     gem 'sqlite3'
+gem 'sqlite3'
 end
 
 gem 'devise'
